@@ -1,6 +1,6 @@
 - 👋 Hello, my names Corey and I reside in Massachusetts
 - 👀 I’m interested in all things analytics
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently focused on learning machine learning
 - 📫 My links: [Linkedin](https://www.linkedin.com/in/corey-haigh-a7b66b118/), [Kaggle](https://www.kaggle.com/cphaigh)
 
 <!---
